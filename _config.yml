@@ -61,7 +61,7 @@ atom_feed:
   hide                   : true # true, false (default)
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -135,16 +135,16 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/nguyenduc1511"
+      # url: "https://facebook.com/nguyenduc1511"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ngntrgduc"
+      # url: "https://github.com/ngntrgduc"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ducnguyen1511/"
+      # url: "https://www.linkedin.com/in/ducnguyen1511/"
 
 # Reading Files
 include:
