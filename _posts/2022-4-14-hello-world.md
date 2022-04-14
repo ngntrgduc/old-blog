@@ -3,28 +3,36 @@ layout: post
 title:  "Hello world"
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "cog"
 toc_sticky: true
 ---
 
 # Welcome
 
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 
 ---
 
 **Hello world**, this is my first blog post.
 
-===
 
 `testing`
 
 ```python
 print('hello world')
+```
+
+```cpp
+int main() {
+    std::cout << "Hello world";
+}
 ```
 
 - Bullet 1
@@ -38,7 +46,7 @@ print('hello world')
 
 ~~Strike~~
 
-> Quote
+> This test is a quote
 
 
 
