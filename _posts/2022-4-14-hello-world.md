@@ -1,9 +1,9 @@
 ---
-# layout: post
+layout: post
 title:  "Hello world"
 toc: true
-# toc_label: "Table of Contents"
-# toc_sticky: true
+toc_label: "Table of Contents"
+toc_sticky: true
 ---
 
 # Welcome

@@ -25,7 +25,7 @@ url                      : "https://ngntrgduc.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ngntrgduc/ngntrgduc.github.io" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/pikachu.jpg" # path of logo image to display in the masthead, e.g. 
+logo                     : # path of logo image to display in the masthead, e.g. 
 masthead_title           : "ngntrgduc's blog" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -142,7 +142,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ducnguyen1511/"
 
 # Reading Files
 include:
@@ -282,5 +284,5 @@ defaults:
       comments: # true
       share: true
       related: true
-      math_engine: katex
+      katex: true
       excerpt: ""
