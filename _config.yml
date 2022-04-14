@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Nguyễn Trung Đức"
-  avatar           : /assets/images/pikachu.jpg"
+  avatar           : "/assets/images/pikachu.jpg"
   bio              : "A freshman at VNUHCM - University of Science"
   location         : "TP.HCM"
   email            :
@@ -283,3 +283,4 @@ defaults:
       share: true
       related: true
       math_engine: katex
+      excerpt: ""
