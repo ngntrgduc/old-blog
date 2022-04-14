@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hello world"
 toc: true
 toc_label: "Table of Contents"
@@ -8,11 +7,11 @@ toc_sticky: true
 
 # Welcome
 
-## H2
+## Heading 2
 
-### H3
+### Hm ?
 
-#### H4
+#### H4 
 
 ##### H5
 

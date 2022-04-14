@@ -23,7 +23,7 @@ name                     : "Nguyễn Trung Đức"
 description              : "A freshman at VNUHCM - University of Science"
 url                      : "https://ngntrgduc.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ngntrgduc/ngntrgduc.github.io" # GitHub username/repo-name e.g. 
+repository               : #"ngntrgduc/ngntrgduc.github.io" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. 
 masthead_title           : "ngntrgduc's blog" # overrides the website title displayed in the masthead, use " " for no title
@@ -280,7 +280,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: # true
       comments: # true
       share: true
       related: true
