@@ -11,15 +11,10 @@ toc_sticky: true
 
 ### Hm ?
 
-#### H4 
-
-##### H5
-
-###### H6
+## An
 
 ---
 
-**Hello world**, this is my first blog post.
 
 
 `testing`
@@ -40,7 +35,10 @@ int main() {
     - Sub sub bullet 1
 
 *Bold* 
+
 **Italic**
+
+
 ***Bold and Italic***
 
 ~~Strike~~
@@ -50,5 +48,10 @@ int main() {
 
 
 $1 + 2$
+
 \(1 + 1 = 2\)
 \[1 + 1 = 2\]
+
+
+> Mình viết lại những gì tuổi trẻ mình đi, mình học, mình trải nghiệm để sau này khi lớn lên mình có thể nhìn lại được một chặng đường thật dài mình đã đi qua.
+
