@@ -4,7 +4,6 @@
 
 .masthead {
   position: relative;
-  background-color: $primary-color;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -53,7 +52,6 @@
   align-self: center;
   font-weight: bold;
   // z-index: 20;
-  color: white;
 }
 
 .site-subtitle {
@@ -67,8 +65,6 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  background-color: $primary-color;
-  color: white;
 
   .site-nav {
     margin-left: 0;
@@ -83,8 +79,6 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-
-    color: white;
   }
 }
 
