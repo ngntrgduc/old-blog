@@ -25,7 +25,6 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
-    background-color: $primary-color;
 
 
     @include breakpoint($x-large) {
@@ -37,7 +36,6 @@
     }
 
     a {
-      color: white;
       text-decoration: none;
     }
   }
@@ -55,6 +53,7 @@
   align-self: center;
   font-weight: bold;
   // z-index: 20;
+  color: white;
 }
 
 .site-subtitle {
@@ -68,10 +67,12 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+  background-color: $primary-color;
+  color: white;
 
   .site-nav {
     margin-left: 0;
-
+    
     @include breakpoint($small) {
       float: right;
     }
@@ -82,6 +83,8 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+
+    color: white;
   }
 }
 
