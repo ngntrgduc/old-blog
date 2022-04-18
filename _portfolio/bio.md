@@ -12,7 +12,7 @@ sidebar__right:
 
 Trang web đầu tiên của tui.
 
-![image](assets/images/bio.png)
+![image](assets/../../assets/images/bio.png)
 
 **Link GitHub**: https://github.com/ngntrgduc/bio
 
