@@ -5,6 +5,4 @@ permalink: /about/
 author_profile: true
 ---
 
-This is my blog page, nothing here.
-
-Xin chào.
+Xin chào. Tui là một sinh viên ngành Toán - Tin học :3.
