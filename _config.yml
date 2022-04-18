@@ -59,9 +59,9 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
-search                   : # true # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search_provider          : google # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -202,7 +202,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  math_engine: katex
   syntax_highlighter_opts:
     block:
       line_numbers: true
@@ -288,5 +287,30 @@ defaults:
       share: # true
       related: true
       show_date: true
-      katex: true
       excerpt: ""
+
+include: ["_pages"]
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Portfolio settings
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+# _portfolio
+- scope:
+  path: ""
+  type: portfolio
+values:
+  layout: single
+  author_profile: false
+  share: true
