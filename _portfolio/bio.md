@@ -3,7 +3,7 @@ title: "My bio"
 excerpt: "Trang web đầu tiên"
 header:
   teaser: assets/images/bio.png
-sidebar__right:
+sidebar:
   - title: "Roles"
     text: "Designer, Front-End Developer"
   - title: "Learned"
@@ -12,8 +12,8 @@ sidebar__right:
 
 Trang web đầu tiên của tui.
 
-![image](assets/../../assets/images/bio.png)
+![image](/../assets/images/bio.png)
 
-**Link GitHub**: https://github.com/ngntrgduc/bio
+[**Link GitHub**](https://github.com/ngntrgduc/bio)
 
-**Live demo**: https://ngntrgduc.github.io/bio
+[**Live demo**](https://ngntrgduc.github.io/bio)
