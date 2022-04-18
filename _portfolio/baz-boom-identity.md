@@ -1,28 +1,29 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "My bio"
+excerpt: "Trang web đầu tiên"
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: assets/images/pikachu.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
     text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - title: "Learned"
+    text: "Basic of HTML and CSS"
+# gallery:
+#   - url: /assets/images/unsplash-gallery-image-1.jpg
+#     image_path: assets/images/unsplash-gallery-image-1-th.jpg
+#     alt: "placeholder image 1"
+#   - url: /assets/images/unsplash-gallery-image-2.jpg
+#     image_path: assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#   - url: /assets/images/unsplash-gallery-image-3.jpg
+#     image_path: assets/images/unsplash-gallery-image-3-th.jpg
+#     alt: "placeholder image 3"
+author_profile: true
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence.
+Trang web đầu tiên của tui.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+
+
+{% include gallery caption="Hình ảnh của trang web" %}
