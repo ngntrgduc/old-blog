@@ -288,6 +288,7 @@ defaults:
       related: true
       show_date: true
       excerpt: ""
+      mathjax: true
 
   # _portfolio
   - scope:
