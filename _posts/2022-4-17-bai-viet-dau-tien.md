@@ -24,10 +24,3 @@ Thật ra là tui muốn tự code cái blog dễ customize những cái tui th�
 Bài viết đầu tiên tới đây thôi. Cảm ơn mọi người đã đọc :>. Tui nghĩ sẽ có nhiều thứ hay ho ở đây lắm, nên mọi người nhớ đón chờ nhe :>.
 
 ![](https://c.tenor.com/MKU57hv9JkwAAAAi/capoo-bugcat.gif)
-
-$$1+1=2$$
-$1+1=2$
-\(1+1=2\)
-\[1+1=2\]
-
-$$ E = mc^2 $$
