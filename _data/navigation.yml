@@ -8,5 +8,5 @@ main:
     url: /portfolio/
   - title: "My CV"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Resources"
+    url: /my-docs/
