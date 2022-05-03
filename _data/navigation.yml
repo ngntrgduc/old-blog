@@ -7,6 +7,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "My CV"
-  #   url: /collection-archive/
+    url: /my-resume/my_resume.pdf/
   - title: "Resources"
-    url: /my-docs/
+    url: /my-docs/docs/intro/
