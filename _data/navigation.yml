@@ -7,6 +7,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "My CV"
-    url: https://github.com/ngntrgduc/my-resume/blob/master/resume/my_resume.pdf
+    url: /my-resume/
   - title: "Resources"
     url: /my-docs/docs/intro/
