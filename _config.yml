@@ -20,7 +20,7 @@ title                    : "ngntrgduc's blog"
 title_separator          : "-"
 subtitle                 : # "A freshman at VNUHCM - University"
 name                     : "Nguyễn Trung Đức"
-description              : "A freshman at VNUHCM - University of Science"
+description              : "A lazy pig at University of Science - VNUHCM :3"
 url                      : "https://ngntrgduc.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"ngntrgduc/ngntrgduc.github.io" # GitHub username/repo-name e.g. 
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Nguyễn Trung Đức"
   avatar           : /assets/images/pikachu.jpg
-  bio              : "A lazy pig at VNUHCM - University of Science :3"
+  bio              : "A lazy pig at University of Science - VNUHCM :3"
   location         : "TP.HCM"
   email            :
   links:
