@@ -9,4 +9,4 @@ main:
   - title: "My CV"
     url: /my-resume/
   - title: "Resources"
-    url: /my-docs/
+    url: https://github.com/ngntrgduc/my-docs
