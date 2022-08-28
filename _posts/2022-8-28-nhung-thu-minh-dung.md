@@ -7,7 +7,7 @@ toc_sticky: true
 
 # Programming
 ## Text editor
-Mình dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/) (cho việc edit nhanh) và [Neovim](https://neovim.io/)) (khi mình không thích xài VS Code :>)
+Mình dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/) (cho việc edit nhanh) và [Neovim](https://neovim.io/) (khi mình không thích xài VS Code :>)
 
 ## Theme
 - [Dracula](https://draculatheme.com/)
