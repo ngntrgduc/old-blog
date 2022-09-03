@@ -11,7 +11,7 @@ Mình dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notep
 
 ## Theme
 - [Dracula](https://draculatheme.com/).
-- [Winter is coming](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming).
+- [Nord](https://www.nordtheme.com/).
 
 # Extension
 - [Onetab](https://www.one-tab.com/): Nó sẽ gom tất các tab hiện tại của trình duyệt thành 1 tab duy nhất, giúp giảm gánh nặng cho Ram của bạn.
