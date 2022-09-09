@@ -3,10 +3,11 @@ title:  "Bài viết đầu tiên"
 toc: true
 toc_label: "Table of Contents"
 toc_sticky: true
+last_modified_at: 2022-09-09
 ---
 
 # Tui là ai ?
-Tui hiện đang là sinh viên năm nhất khoa Toán - Tin học tại trường Đại học Khoa học tự nhiên - TP.HCM. Hiện tại định hướng của tui là sẽ đi theo mảng AI và Data Science. Còn về sau nó có thay đổi hay không thì tui không biết :v.
+Tui hiện đang là sinh viên năm hai khoa Toán - Tin học tại trường Đại học Khoa học tự nhiên - TP.HCM. Hiện tại định hướng của tui là sẽ đi theo mảng AI và Data Science. Còn về sau nó có thay đổi hay không thì tui không biết :v.
 
 # Đây là đâu ?
 
