@@ -6,6 +6,8 @@ header:
 sidebar:
   - title: "Roles"
     text: "Designer, Front-End Developer"
+  - title: "Technology used"
+    text: "HTML, CSS"
   - title: "Learned"
     text: "Basic of HTML and CSS"
 ---
