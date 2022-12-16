@@ -1,5 +1,5 @@
 ---
-title:  "Những phần mềm, tiện ích mà mình dùng"
+title:  "Những phần mềm, tiện ích mà tui dùng"
 toc: true
 toc_label: "Table of Contents"
 toc_sticky: true
@@ -7,7 +7,7 @@ toc_sticky: true
 
 # Programming
 ## Text editor
-Mình dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/) (cho việc edit nhanh) và [Neovim](https://neovim.io/) (khi mình không thích xài VS Code :>).
+Tui dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/) (cho việc edit nhanh) và [Neovim](https://neovim.io/) (khi tui không thích xài VS Code :>).
 
 ## Theme
 - [Dracula](https://draculatheme.com/).
@@ -24,7 +24,7 @@ Mình dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notep
 
 # Misc
 ## [TickTick](https://ticktick.com/)
-Này mình dùng cho việc lên task, ý tưởng. Nó có cả app lẫn trên web luôn nên mình thấy nó khá là tiện.
+Này tui dùng cho việc lên task, ý tưởng. Nó có cả app lẫn trên web luôn nên tui thấy nó khá là tiện.
  
 ## Take notes
-Mình dùng [HackMD](https://hackmd.io/) để viết notes bằng markdown. Còn khi không có mạng thì mình dùng Notepad++.
+Tui dùng [HackMD](https://hackmd.io/) để viết notes bằng markdown. Còn khi không có mạng thì tui dùng Notepad++.
