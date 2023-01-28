@@ -7,7 +7,7 @@ toc_sticky: true
 
 # Programming
 ## Text editor
-Tui dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/) (cho việc edit nhanh) và [Neovim](https://neovim.io/) (khi tui không thích xài VS Code :>).
+Tui dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notepad-plus-plus.org/) (cho việc edit nhanh hay review những file lớn) và [Neovim](https://neovim.io/) (khi tui không thích xài VS Code :>).
 
 ## Theme
 - [Dracula](https://draculatheme.com/).
@@ -22,9 +22,15 @@ Tui dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notepad
 - [Dark Reader](https://darkreader.org/): Theme tối cho những trang web không có theme tối ;-;.
 - [Octotree](https://www.octotree.io/): Nó sẽ giúp bạn có cái folder tree cho từng repository trên Github.
 
-# Misc
+# Vài thứ linh tinh
 ## [TickTick](https://ticktick.com/)
 Này tui dùng cho việc lên task, ý tưởng. Nó có cả app lẫn trên web luôn nên tui thấy nó khá là tiện.
- 
+
+## [Google Calendar](https://calendar.google.com/)
+Ah yes. Time management. ~~Nó đã giúp tui thấy được rằng tuần nào tui cũng có deadline.~~
+
 ## Take notes
-Tui dùng [HackMD](https://hackmd.io/) để viết notes bằng markdown. Còn khi không có mạng thì tui dùng Notepad++.
+Tui dùng [HackMD](https://hackmd.io/) để viết notes bằng markdown. Còn khi không có mạng thì tui dùng [Marktext](https://github.com/marktext/marktext).
+
+## Personal Knowledge Management
+- [Obsidian](https://obsidian.md/)
