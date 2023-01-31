@@ -1,6 +1,8 @@
 ---
 title: "codewars-unfollow"
 excerpt: "Unfollow all of your allies/following on Codewars"
+header:
+  teaser: assets/images/pikachu.jpg
 sidebar:
   - title: "Technology used"
     text: "Python, Selenium, RegEx"
@@ -8,6 +10,6 @@ sidebar:
     text: "Selenium"
 ---
 
-Unfollow all of your allies/following on Codewars
+Unfollow all of your allies/following on Codewars.
 
 [**Link GitHub**](https://github.com/ngntrgduc/codewars-unfollow)
