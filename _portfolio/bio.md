@@ -1,8 +1,6 @@
 ---
 title: "My bio"
 excerpt: "Trang web đầu tiên"
-header:
-  teaser: assets/images/bio.png
 sidebar:
   - title: "Roles"
     text: "Designer, Front-End Developer"

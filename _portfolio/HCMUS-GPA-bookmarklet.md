@@ -1,8 +1,6 @@
 ---
 title: "HCMUS-GPA-bookmarklet"
 excerpt: "Tính điểm GPA trên Portal"
-header:
-  teaser: assets/images/HCMUS-GPA-bookmarklet.png
 sidebar:
   - title: "Technology used"
     text: "HTML, CSS, JS"
