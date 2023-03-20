@@ -10,4 +10,6 @@ main:
     url: /projects/
   - title: "Resume"
     url: /my-resume/
+  - title: "Docs"
+    url: /docs/
   
