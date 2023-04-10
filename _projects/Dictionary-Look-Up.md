@@ -10,4 +10,4 @@ sidebar:
 
 Extension to look up words painlessly
 
-[**Link GitHub**](https://github.com/ngntrgduc/Oxford-Dictionary-Look-Up)
+[**Link GitHub**](https://github.com/ngntrgduc/Dictionary-Look-Up)
