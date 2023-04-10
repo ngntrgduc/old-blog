@@ -10,7 +10,7 @@ sidebar:
     text: "Basic of HTML and CSS"
 ---
 
-Trang web đầu tiên của tui.
+Trang web đầu tiên.
 
 ![image](/../assets/images/bio.png)
 
