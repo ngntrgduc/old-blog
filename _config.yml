@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ngntrgduc's blog"
+title                    : "ngntrgduc"
 title_separator          : "-"
 subtitle                 : # "A freshman at VNUHCM - University"
 name                     : "Nguyễn Trung Đức"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"ngntrgduc/ngntrgduc.github.io" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. 
-masthead_title           : "ngntrgduc's blog" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "ngntrgduc" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
