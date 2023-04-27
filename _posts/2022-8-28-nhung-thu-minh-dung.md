@@ -16,6 +16,7 @@ Tui dùng [VS Code](https://code.visualstudio.com/), [Notepad++](https://notepad
 - [Dark Reader](https://darkreader.org/): Theme tối cho những trang web không có theme tối 🥲.
 - [Notion Web Clipper](https://www.notion.so/web-clipper): Lưu bất kì trang web nào vào Notion.
 - [Dictionary Look Up](https://github.com/ngntrgduc/Dictionary-Look-Up): Extension nhà làm để tra cứu từ vựng on the fly.
+
 # Linh tinh
 ## [Notion](https://www.notion.so/)
 Tui dùng Notion cho việc lên Todo list (lúc trước tui dùng [TickTick](https://ticktick.com/)), habit tracker, lưu trữ Blog/Article trên web (lúc trước tui dùng - [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)), ...
