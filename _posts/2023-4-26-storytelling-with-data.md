@@ -17,8 +17,8 @@ Just some notes about the book "[Storytelling with Data](https://www.amazon.com/
 ![](../../assets/images/storytelling/2.png)
     
     
-### **Never use 3D, pie chart**
-### Only add data with a **thoughtful** and **specific purpose** in mind
+### Never use 3D, pie chart
+### Only add data with a thoughtful and specific purpose in mind
 ### Zero baseline
 
 ![](../../assets/images/storytelling/3.png)
