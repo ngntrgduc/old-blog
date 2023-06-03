@@ -124,7 +124,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ngntrgduc/"
     - label: "Buy me a coffee"
-      icon: "fas fa-mug-saucer"
+      icon: "fas fa-fw fa-mug-saucer"
       url: "https://ko-fi.com/ngntrgduc"
 
 # Site Footer
