@@ -60,10 +60,10 @@ Là thuật toán phân tách thừa số nguyên tố nhanh thứ 3 theo [Wiki]
 Có thể còn nhiều ứng dụng nữa mà tui không biết...
 
 # References
-- https://en.wikipedia.org/wiki/Elliptic_curve
-- https://www.twilio.com/blog/what-is-public-key-cryptography
-- https://cryptohack.org/courses/elliptic/bg/
-- https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc
+- [https://en.wikipedia.org/wiki/Elliptic_curve](https://en.wikipedia.org/wiki/Elliptic_curve)
+- [https://www.twilio.com/blog/what-is-public-key-cryptography](https://www.twilio.com/blog/what-is-public-key-cryptography)
+- [https://cryptohack.org/courses/elliptic/bg/](https://cryptohack.org/courses/elliptic/bg/)
+- [https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc](https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc)
 -  Understanding Cryptography: A Textbook for Students and Practitioners - Christof Paar, Jan Pelzl
 
 Nếu bạn muốn ~~đau khổ~~ tìm hiểu sâu về Elliptic Curve thì cuốn The Arithmetic of Elliptic Curves - Joseph H. Silverman dành cho bạn.
