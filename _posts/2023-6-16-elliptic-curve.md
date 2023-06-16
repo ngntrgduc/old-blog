@@ -53,7 +53,7 @@ Bạn có thể đọc thêm [thesis này](https://bearworks.missouristate.edu/c
 ## Fermat's Last Theorem
 Elliptic Curve còn có thể dùng để chứng minh định lý Fermat lớn (định lý không thể chứng minh được trong gần 4 thế kỉ): Không tồn tại các nghiệm nguyên dương $a, b, c$ thoả mãn $a^n + b^n = c^n$ với $n$ là một số nguyên lớn hơn $2$.
 
-Về cách chứng minh thì mời các bạn đọc cách chứng minh của [Andrew Wiles](https://en.wikipedia.org/wiki/Wiles%27s_proof_of_Fermat%27s_Last_Theorem)  ~~chứ mình đọc cũng không hiểu~~.
+Về cách chứng minh thì mời các bạn đọc cách chứng minh của [Andrew Wiles](https://en.wikipedia.org/wiki/Wiles%27s_proof_of_Fermat%27s_Last_Theorem)  ~~chứ tui đọc cũng không hiểu~~.
 
 ## Lenstra elliptic-curve factorization 
 Là thuật toán phân tách thừa số nguyên tố nhanh thứ 3 theo [Wiki](https://en.wikipedia.org/wiki/Lenstra_elliptic-curve_factorization). 
