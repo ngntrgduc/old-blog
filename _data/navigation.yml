@@ -6,10 +6,10 @@ main:
     url: /about/
   - title: "Now"
     url: /now/
-  - title: "Projects"
-    url: /projects/
+  - title: "Publications"
+    url: /publications/
   - title: "Resume"
     url: /my-resume/
-  - title: "Docs"
-    url: /docs/
+  - title: "Resources"
+    url: /resources/
   
