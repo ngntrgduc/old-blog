@@ -1,6 +1,5 @@
 ---
 title:  "Resources"
-layout: archive
 permalink: /resources/
 author_profile: true
 toc: true
@@ -43,7 +42,7 @@ Bạn có thể đọc docs của tui [ở đây](https://ngntrgduc.github.io/do
 ## Sites/Blogs
 - [Distill](https://distill.pub/)
 - [Machine Learning Grossary - Google](https://developers.google.com/machine-learning/glossary)
-- https://kidger.site/
+- [Patrick Kidger's blog](https://kidger.site/)
 
 
 ---
