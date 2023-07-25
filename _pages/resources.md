@@ -3,6 +3,9 @@ title:  "Resources"
 layout: archive
 permalink: /resources/
 author_profile: true
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: true
 ---
 
 Bạn có thể đọc docs của tui [ở đây](https://ngntrgduc.github.io/docs/) (dead 🥲).
